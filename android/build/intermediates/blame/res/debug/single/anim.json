@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/phlls/.android/build-cache/c8dc4f39b60df3cc4ea4b3ba191be510cd47433c/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/phlls/.android/build-cache/c8dc4f39b60df3cc4ea4b3ba191be510cd47433c/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/anim/abc_popup_exit.xml"
+    }
+]

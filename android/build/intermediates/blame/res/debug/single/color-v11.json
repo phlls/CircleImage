@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/phlls/Desktop/CircleImage/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/phlls/.android/build-cache/b56f7f926ec2edc3de728122d3620089bc53df91/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
