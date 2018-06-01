@@ -1,15 +1,15 @@
 
 {
-  "name": "react-native-circle-image",
+  "name": "react-native-resizecircle-image",
   "version": "1.0.0",
-  "description": "",
+  "description": "CircleImage",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phlls/imageTest.git"
+    "url": "git+https://github.com/phlls/CircleImage.git"
   },
   "keywords": [
     "react-native"
